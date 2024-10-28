@@ -1,0 +1,22 @@
+.icon {
+  display: block;
+  transition: 0.3s;
+
+  &--instagram {
+    width: 35px;
+    margin-top: 7px;
+
+    &:hover {
+      scale: 1.2;
+    }
+  }
+
+  &--tiktok {
+    width: 35px;
+    margin-top: 7px;
+
+    &:hover {
+      scale: 1.2;
+    }
+  }
+}
