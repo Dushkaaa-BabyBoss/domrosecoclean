@@ -21,12 +21,10 @@
   }
 
   &__container {
-
     grid-column: span 8;
     display: grid;
     grid-template-columns: repeat(9, 120px);
-    column-gap: 25px;
-    row-gap: 25px;
+    gap: 25px;
     justify-content: center;
     align-items: center;
     padding-top: 50px;

@@ -22,8 +22,7 @@
 
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    column-gap: 25px;
-    row-gap: 25px;
+    gap: 25px;
     justify-content: center;
     align-items: start;
 
